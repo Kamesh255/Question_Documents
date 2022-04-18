@@ -20,7 +20,7 @@ pseudo classes:-  :activ, :hover, :empty, :first-child, : focus  etc.
 
 ### (3) How is specificity applied?
 ``` bash
-        A elements apply more then one CSS selectors so that time specificity give the CSS property acordin to rank of CSS selectors
+        A elements apply more then one CSS selectors so that time specificity give the CSS property according to rank of CSS selectors
 
         <html>
         <head>
@@ -37,3 +37,15 @@ pseudo classes:-  :activ, :hover, :empty, :first-child, : focus  etc.
         </body>
         </html>
 ``` 
+
+### (4) What method allows an element to be moved from its current position?
+```bash
+    The position property specifies the type of positioning method used for an element
+    There are five different position values:
+
+    - static
+    - relative
+    - fixed
+    - absolute
+    - sticky
+```
